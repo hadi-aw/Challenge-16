@@ -13,7 +13,7 @@ const teamMembers = [
 function App() {
   return (
     <div className="App">
-      <Header title="Meet rhe Team" />
+      <Header title="Meet the Team" />
       <Gallery members={teamMembers} />
       <Footer />
     </div>
